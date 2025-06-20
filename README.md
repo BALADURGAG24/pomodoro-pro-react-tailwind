@@ -147,7 +147,7 @@ The timer circle uses smooth stroke transitions, and Framer Motion can animate c
 ## 🧪 Available Scripts
 
 ```bash
-npm run dev       # Start development server
+npm run start       # Start development server
 npm run build     # Build for production
 npm run preview   # Preview production build
 ```
