@@ -6,7 +6,7 @@ A modern, feature-rich Pomodoro Timer built with **React**, **TailwindCSS**, and
  
 ## 🔥 Features
 
-✅ **Session / Break Timers**   
+✅ **Session / Break Timers**    
 ✅ **Customizable Durations**  
 ✅ **Visual Progress Indicator (SVG Circle)**  
 ✅ **Light / Dark Theme Toggle**  
