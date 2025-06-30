@@ -115,7 +115,7 @@ Or use the UI inputs under "Session / Break" settings to adjust on the fly.
 
 ### ✅ Completed Sessions
 
-View how many Pomodoro sessions you’ve completed since you began using the app.
+View how many Pomodoro sessions you’ve completed since you began using the app. 
 
 ### 🎯 Daily Goal Tracking
 
