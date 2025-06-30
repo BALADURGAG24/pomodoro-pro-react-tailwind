@@ -20,7 +20,7 @@ A modern, feature-rich Pomodoro Timer built with **React**, **TailwindCSS**, and
 ---
 
 ## 📁 Project Structure
-
+ 
 ```
 pomodoro-app/
 ├── public/
