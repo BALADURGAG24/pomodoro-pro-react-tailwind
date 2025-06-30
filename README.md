@@ -41,7 +41,7 @@ pomodoro-app/
 ├── tailwind.config.js           // Tailwind setup
 ├── package.json                 // Project dependencies and scripts
 └── vite.config.js               // Vite configuration
-```
+``` 
 
 ---
 
