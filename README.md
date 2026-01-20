@@ -14,7 +14,7 @@ A modern, feature-rich Pomodoro Timer built with **React**, **TailwindCSS**, and
 ✅ **Daily Goal Tracking**                
 ✅ **Pomodoro Chart (Daily Stats Visualization)**   
 ✅ **Desktop Notifications API Support**     
-✅ **Smooth Animations via Framer Motion**    
+✅ **Smooth Animations via Framer Motion**     
 ✅ **LocalStorage Persistence**    
 
 ---
