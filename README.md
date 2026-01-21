@@ -10,7 +10,7 @@ A modern, feature-rich Pomodoro Timer built with **React**, **TailwindCSS**, and
 ✅ **Customizable Durations**      
 ✅ **Visual Progress Indicator (SVG Circle)**          
 ✅ **Light / Dark Theme Toggle**           
-✅ **Simple Stats Tracking (Completed Sessions)**                 
+✅ **Simple Stats Tracking (Completed Sessions)**                  
 ✅ **Daily Goal Tracking**                 
 ✅ **Pomodoro Chart (Daily Stats Visualization)**   
 ✅ **Desktop Notifications API Support**       
